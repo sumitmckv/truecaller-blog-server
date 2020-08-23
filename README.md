@@ -1,5 +1,4 @@
 # Truecaller Blog Server
-##### It contains the server side code written in ExpressJS
 
 ## Project setup
 ```
